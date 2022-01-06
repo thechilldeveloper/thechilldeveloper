@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thechilldeveloper
 - 👀 I’m interested in programming and developing creative appications 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter and Blockchain technologies
+- 💞️ I’m looking to collaborate on Blockchain Developer Community
 - 📫 How to reach me thechilldeveloper@gmail.com
 
 <!---
